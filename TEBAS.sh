@@ -363,8 +363,8 @@ echo
 echo $yellow"                          THANKS TO :"
 echo
 echo $cyan"[+] Allah SWT "
-echo $cyan"[+] Ms. Deeda & TN. A.y.S
-echo $cyan"[+] Team Cyber Zend Entertime
+echo $cyan"[+] Ms. Deeda & TN. A.y.S "
+echo $cyan"[+] Team Cyber Zend Entertime "
 echo $cyan"[+] All Member [L.C.I] "
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $indigo"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
