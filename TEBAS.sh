@@ -358,11 +358,13 @@ toilet -f future "   Informasi Tools" | lolcat
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $green"Author   : MiSetya			"
 echo $purple"Gthub   : https://github.com/MiSetya"
-echo $white"Youtube  : http://youtube.com/MiSetya"
+echo $white"Youtube  : https://youtube.com/MiSetya"
 echo
 echo $yellow"                          THANKS TO :"
 echo
 echo $cyan"[+] Allah SWT "
+echo $cyan"[+] Ms. Deeda & TN. A.y.S
+echo $cyan"[+] Team Cyber Zend Entertime
 echo $cyan"[+] All Member [L.C.I] "
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $indigo"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
