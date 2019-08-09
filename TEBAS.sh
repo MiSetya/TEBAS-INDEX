@@ -163,7 +163,7 @@ echo $white "http://prorepafrica.com"
 echo $cyan "http://xposurephotography.co.za"
 echo $white "http://windmillsandporcupines.co.za"
 echo $cyan "http://tcnig.co.za"
-echo $white "http://techdirect.co.za"
+echo $white "http://ayk.co.za"
 echo $cyan "http://thehellenic.co.za"
 echo $white "http://valdicare.co.za"
 echo
