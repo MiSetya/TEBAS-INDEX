@@ -150,24 +150,29 @@ toilet -f future "Deface Tebas Index" | lolcat
 echo
 echo $red "Simpan SC Deface Lu Di Memory Internal Di Luar Folder "
 echo
-echo $yellow "Live Target"
-echo $white "http://contsol.co.za"
-echo $cyan "http://colourfactory.co.za"
-echo $white "http://chillibitez.co.za"
-echo $cyan "http://chasingfantasia.com"
-echo $white "http://centraltech.co.za"
-echo $cyan "http://cblandscapes.co.za"
-echo $white "http://crimsonmonkeyweb.com"
-echo $cyan "http://kevinbutho.com"
-echo $white "http://prorepafrica.com"
-echo $cyan "http://xposurephotography.co.za"
-echo $white "http://windmillsandporcupines.co.za"
-echo $cyan "http://tcnig.co.za"
-echo $white "http://ayk.co.za"
-echo $cyan "http://thehellenic.co.za"
-echo $white "http://valdicare.co.za"
+echo $yellow "List Target"
+echo $red "http://contsol.co.za"
+echo $white "http://colourfactory.co.za"
+echo $red "http://chillibitez.co.za"
+echo $white "http://chasingfantasia.com"
+echo $red "http://centraltech.co.za"
+echo $white "http://cblandscapes.co.za"
+echo $red "http://crimsonmonkeyweb.com"
+echo $white "http://kevinbutho.com"
+echo $red "http://prorepafrica.com"
+echo $white "http://xposurephotography.co.za"
+echo $red "http://windmillsandporcupines.co.za"
+echo $white "http://tcnig.co.za"
+echo $red "http://ayk.co.za"
+echo $white "http://thehellenic.co.za"
+echo $red "http://valdicare.co.za"
+echo $white "http://scnc.co.za"
+echo $red "http://bitsandpieces.co.za"
+echo $white "http://itsengineering.co.za"
+echo $red "http://windmillsandporcupines.co.za"
+echo $white "http://floralandfresh.co.za"  
 echo
-echo $red "Gass Nebas!!!"
+echo $red "Gass Nebas!!! Masukkan website target!"
 echo $green "╭─"$blue"MiSetya"$cyan" ~/LCI"$white
 read -p " ╰─$ "  target
 echo
@@ -362,10 +367,10 @@ echo $white"Youtube  : https://youtube.com/MiSetya"
 echo
 echo $yellow"                          THANKS TO :"
 echo
-echo $cyan"[+] Allah SWT "
-echo $cyan"[+] Ms. Deeda & TN. A.y.S "
-echo $cyan"[+] Team Cyber Zend Entertime "
-echo $cyan"[+] All Member [L.C.I] "
+echo $red"[+] Allah SWT "
+echo $white"[+] Ms. Deeda & TN. A.y.S "
+echo $red"[+] All Member [C.R.Z] "
+echo $white"[+] All Member [L.C.I] "
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $indigo"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo
@@ -391,7 +396,7 @@ fi
 
 if [ $back = "B" ] || [ $back = "b" ]
 then
-sh LCI.sh
+sh TEBAS.sh
 fi
 
 if [ $back = "Q" ] || [ $back = "q" ]
